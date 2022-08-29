@@ -1,7 +1,6 @@
 ## Hey There! 🙋‍♂️ 
-### Professional Portfolio
-- [View my Portfolio](https://dlittlefield81.github.io/reactportfolio/)
-- [View my LinkedIn](https://www.linkedin.com/in/dennislittlefield/)
+### Professional Links
+[My Portfolio](https://dlittlefield81.github.io/reactportfolio/) | [LinkedIn Profile](https://www.linkedin.com/in/dennislittlefield/)
 
 ### Current Projects
 
