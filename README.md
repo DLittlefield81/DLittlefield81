@@ -2,12 +2,12 @@
 ### Professional Links
 [My Portfolio](https://dlittlefield81.github.io/reactportfolio/) | [LinkedIn Profile](https://www.linkedin.com/in/dennislittlefield/)
 
-### Programming Languages
+### Programming Knowledge
 - HTML, CSS, Bootstrap, PHP, WordPress
 - WebAPI, OOP, ORM, MVC, PWA
 - SQL, MongoDB
 - JavaScript, Node, Express, React, 
-- GitHub, Heroku
-### Current Projects
+- GitHub, Heroku, GraphQL
+### Development
 - In Production: [EscapeRoomHub](https://github.com/DLittlefield81/EscapeRoomHub)
-- Learning: "BrainJS" an AI platform for JavaScript.
+- Learning: AWS, BrainJS.
