@@ -9,5 +9,5 @@
 - JavaScript, Node, Express, React, 
 - GitHub, Heroku, GraphQL
 ### Development
-- In Production: [EscapeRoomHub](https://github.com/DLittlefield81/EscapeRoomHub)
-- Learning: AWS, BrainJS.
+- [EscapeRoomHub](https://github.com/DLittlefield81/EscapeRoomHub)
+- Learning: GCS, AWS, Python, BrainJS.
