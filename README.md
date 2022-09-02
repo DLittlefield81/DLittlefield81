@@ -8,6 +8,7 @@
 - SQL, MongoDB
 - JavaScript, Node, Express, React, 
 - GitHub, Heroku, GraphQL
-### Development
+### Learning
+GCS, AWS, Python, BrainJS.
+### In Development
 - [EscapeRoomHub](https://github.com/DLittlefield81/EscapeRoomHub)
-- Learning: GCS, AWS, Python, BrainJS.
