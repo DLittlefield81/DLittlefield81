@@ -11,4 +11,4 @@
 ### Learning
 GCS, AWS, Python, BrainJS.
 ### In Development
-- [EscapeRoomHub](https://github.com/DLittlefield81/EscapeRoomHub)
+- [EscapeRoomHub](https://github.com/DLittlefield81/EscapeRoomHub) A business platform for Escape Venues and Players to come together.
