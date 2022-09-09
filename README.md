@@ -9,6 +9,6 @@
 - JavaScript, Node, Express, React, 
 - GitHub, Heroku, GraphQL
 ### Learning
-GCS, AWS, Python, BrainJS.
+- 2022-08-25 - GCS, AWS, Python, BrainJS.
 ### In Development
 - [EscapeRoomHub](https://github.com/DLittlefield81/EscapeRoomHub) A business platform for Escape Venues and Players to come together.
