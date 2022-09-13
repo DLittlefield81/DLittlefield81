@@ -1,6 +1,7 @@
 ## Hey There! 🙋‍♂️ 
 ### Professional Links
 [My Portfolio](https://dlittlefield81.github.io/reactportfolio/) | [LinkedIn Profile](https://www.linkedin.com/in/dennislittlefield/)
+| [FreeCodeCamp](https://www.freecodecamp.org/DLittlefield81)
 
 ### Education
 >- **University of Toronto: MERN Full Stack Developer Certificate (2022-08-03)** - HTML, CSS, Bootstrap, PHP, WordPress, WebAPI, OOP, ORM, MVC, PWA, SQL, MongoDB, JavaScript, Node, Express, React, GitHub, Heroku, GraphQL
