@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://i.imgur.com/1C0s1p4.png" title="Hi I'm Dennis" alt="Hi I'm Dennis" width="60" height="60"/><br/> Hi, I'm Dennis <br/>
+  <img src="https://i.imgur.com/1C0s1p4.png" title="Hi I'm Dennis" alt="Hi I'm Dennis" width="150" height="150"/><br/> Hi, I'm Dennis <br/>
  <img src="https://komarev.com/ghpvc/?username=DLittlefield81"/><br/>
 </h1>
   
