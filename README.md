@@ -2,9 +2,8 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
+
 <img src="https://komarev.com/ghpvc/?username=DLittlefield81"/>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DLittlefield81)
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=DLittlefield81&show_icons=true)
