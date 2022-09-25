@@ -34,11 +34,11 @@
 
 <div align="center">
   
-   [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=reactportfolio&theme=dark)](https://github.com/DLittlefield81/reactportfolio)
-  
   ![My Stats](https://github-readme-stats.vercel.app/api?username=DLittlefield81&show_icons=true&theme=blue-green)
   
   [![Languages and Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=DLittlefield81&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  ## In Development
+  [![EscapeRoomHub](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=EscapeRoomHub&theme=dark)](https://github.com/DLittlefield81/EscapeRoomHub)
   
 </div>
 
@@ -48,14 +48,3 @@
 ### Education
 >- **University of Toronto: Full Stack Developer Certificate (2022-08-03)** 
 
- 
-
-
- 
-  
- 
-
-### Continued Learning
->- **2022-08-25** - GCS, AWS, Python, BrainJS
-### In Development
->- **2022-08-10** - [EscapeRoomHub](https://github.com/DLittlefield81/EscapeRoomHub) A business platform for Escape Venues and Players to come together.
