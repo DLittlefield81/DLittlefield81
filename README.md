@@ -29,13 +29,14 @@
 
 
 
-<p align="center">
+<div align="center">
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=reactportfolio)](https://github.com/DLittlefield81/reactportfolio)
   
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=DLittlefield81&show_icons=true&theme=blue-green)
   
   [![Languages and Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=DLittlefield81&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-</p>
+</div>
 
 
 
@@ -48,7 +49,7 @@
 
  
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=reactportfolio)](https://github.com/DLittlefield81/reactportfolio)
+ 
 
 ### Continued Learning
 >- **2022-08-25** - GCS, AWS, Python, BrainJS
