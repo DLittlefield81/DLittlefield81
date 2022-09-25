@@ -1,4 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=DLittlefield81"/>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DLittlefield81&theme=blue-green)
 ## Hey There! 🙋‍♂️ 
 ### Professional Links
 [LinkedIn](https://www.linkedin.com/in/dennislittlefield/) | [My Portfolio](https://dlittlefield81.github.io/reactportfolio/) | [FreeCodeCamp](https://www.freecodecamp.org/DLittlefield81) | [LeetCode](https://leetcode.com/dlittlefield81/) 
