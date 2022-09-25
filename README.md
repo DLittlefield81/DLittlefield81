@@ -6,7 +6,8 @@
   <br/> 
   Hi, I'm Dennis
   </h1>
-  <p> I'm a passionate web developer who loves to learn, and when I put my mind to something I can do anything. 
+  <p align="center"> 
+  I'm a passionate web developer who loves to learn, and when I put my mind to something I can do anything. 
   <br/>
   <a href="https://dlittlefield81.github.io/reactportfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></img></a>
 </p>
