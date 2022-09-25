@@ -24,7 +24,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DLittlefield81&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=DLittlefield81&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=DLittlefield81&show_icons=true&theme=synthwave)
 
 ## Hey There! 🙋‍♂️ 
  
