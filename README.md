@@ -1,8 +1,10 @@
 
 <h1 align="center">
-  <img src="https://i.imgur.com/1C0s1p4.png" title="Hi I'm Dennis" alt="Hi I'm Dennis" width="150" height="150"/><br/> Hi, I'm Dennis <br/>
- <img src="https://komarev.com/ghpvc/?username=DLittlefield81"/><br/>
-  <a href="https://dlittlefield81.github.io/reactportfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></img></a> &nbsp; 
+  <img src="https://i.imgur.com/1C0s1p4.png" title="Hi I'm Dennis" alt="Hi I'm Dennis" width="150" height="150"/><br/> Hi, I'm Dennis
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=DLittlefield81"/>
+  <br/>
+  <a href="https://dlittlefield81.github.io/reactportfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></img></a>
 </h1>
 
 <p align="center">
