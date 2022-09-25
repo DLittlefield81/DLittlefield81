@@ -6,8 +6,8 @@
   <p align="center"> 
   [LinkedIn](https://www.linkedin.com/in/dennislittlefield/) || [My Portfolio](https://dlittlefield81.github.io/reactportfolio/) || [FreeCodeCamp](https://www.freecodecamp.org/DLittlefield81) || [LeetCode](https://leetcode.com/dlittlefield81/)
 </p>
-
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+  <p align="center"> 
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a></p>
 
 ### Professional Links
 https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
