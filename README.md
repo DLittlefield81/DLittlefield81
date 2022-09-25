@@ -33,9 +33,8 @@ https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress
 [![Languages and Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=DLittlefield81&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=DLittlefield81&show_icons=true&theme=synthwave)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=DLittlefield81&show_icons=true&theme=blue-green)
 
- 
 
 ### Education
 >- **University of Toronto: Full Stack Developer Certificate (2022-08-03)** 
