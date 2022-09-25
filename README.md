@@ -29,20 +29,9 @@
 
 
 
-### Professional Links
-
-
-
-
-https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
-
-
-
-### :hammer_and_wrench: Languages and Tools :
-
-
+<p align="center">
 [![Languages and Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=DLittlefield81&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=DLittlefield81&show_icons=true&theme=blue-green)
 
