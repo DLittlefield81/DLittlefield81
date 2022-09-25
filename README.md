@@ -9,7 +9,7 @@
   <p align="center"> 
   I'm a recent graduate from the University of Toronto Full Stack Developer program (2022). <br />
 Currently seeking gainful employment within the tech industry.<br />
-I've always been passionate about technology and website development.
+I've always been passionate about technology and website development.<br />
 Prior to attending U of T, I taught myself HTML, CSS, ActionScript, ColdFusion, PHP. <br />
 When I put my mind to something I can do anything. 
   <br/><br/>
