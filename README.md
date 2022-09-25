@@ -4,11 +4,11 @@
   <br/> 
   <img src="https://i.imgur.com/1C0s1p4.png" title="Hi I'm Dennis" alt="Hi I'm Dennis" width="150" height="150"/>
   <br/> 
-  Hi, I'm Dennis
+  Hi, I'm Dennis Littlefield
   </h1>
   <p align="center"> 
   I'm a passionate web developer who loves to learn, and when I put my mind to something I can do anything. 
-  <br/>
+  <br/><br/>
   <a href="https://dlittlefield81.github.io/reactportfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></img></a>
 </p>
 
