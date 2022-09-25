@@ -7,7 +7,7 @@
   Hi, I'm Dennis Littlefield
   </h1>
   <p align="center"> 
-  I'm a recent graduate from the University of Toronto Full Stack Developer program (2022). <br />
+  I'm a recent graduate from the **University of Toronto** Full Stack Developer program (2022). <br />
 Currently seeking gainful employment within the tech industry.
   <br/><br/>
   <a href="https://dlittlefield81.github.io/reactportfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></img></a>
