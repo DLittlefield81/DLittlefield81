@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=DLittlefield81"/>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DLittlefield81&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DLittlefield81)
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=DLittlefield81&show_icons=true)
