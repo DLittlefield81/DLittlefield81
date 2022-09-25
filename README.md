@@ -7,7 +7,11 @@
   Hi, I'm Dennis Littlefield
   </h1>
   <p align="center"> 
-  I'm a passionate web developer who loves to learn, and when I put my mind to something I can do anything. 
+  I'm a recent graduate from the University of Toronto Full Stack Developer program (2022). <br />
+Currently seeking gainful employment within the tech industry.<br />
+I've always been passionate about technology and website development.
+Prior to attending U of T, I taught myself HTML, CSS, ActionScript, ColdFusion, PHP. <br />
+When I put my mind to something I can do anything. 
   <br/><br/>
   <a href="https://dlittlefield81.github.io/reactportfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></img></a>
 </p>
