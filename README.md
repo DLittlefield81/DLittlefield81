@@ -3,6 +3,17 @@
   <img src="https://i.imgur.com/1C0s1p4.png" title="Hi I'm Dennis" alt="Hi I'm Dennis" width="150" height="150"/><br/> Hi, I'm Dennis <br/>
  <img src="https://komarev.com/ghpvc/?username=DLittlefield81"/><br/>
 </h1>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/dennislittlefield/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> &nbsp; 
+<a href="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"><img src=""></img></a> &nbsp; 
+<a href=""><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></img></a> &nbsp; 
+<a href="https://dlittlefield81.github.io/reactportfolio/"><img src=""></img></a> &nbsp; 
+<a href="https://www.freecodecamp.org/DLittlefield81"><img src=""></img></a> &nbsp; 
+<a href="https://leetcode.com/dlittlefield81/"><img src=""></img></a> &nbsp; 
+<a href="https://wa.me//14372486759"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
+</p>
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -16,15 +27,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/dennislittlefield/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> &nbsp; 
-<a href="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"><img src=""></img></a> &nbsp; 
-<a href=""><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></img></a> &nbsp; 
-<a href="https://dlittlefield81.github.io/reactportfolio/"><img src=""></img></a> &nbsp; 
-<a href="https://www.freecodecamp.org/DLittlefield81"><img src=""></img></a> &nbsp; 
-<a href="https://leetcode.com/dlittlefield81/"><img src=""></img></a> &nbsp; 
-<a href="https://wa.me//14372486759"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
-</p>
+
 
 ### Professional Links
 
