@@ -52,5 +52,5 @@
 
 ### Education
 > **University of Toronto:** 
->  Full Stack Developer Certificate (2022-08-03)
+>- (2022-08-03) Full Stack Developer Certificate 
 
