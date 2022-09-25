@@ -15,18 +15,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-  <p align="center"> 
-  
-  
-  [LinkedIn](https://www.linkedin.com/in/dennislittlefield/) || [My Portfolio](https://dlittlefield81.github.io/reactportfolio/) || [FreeCodeCamp](https://www.freecodecamp.org/DLittlefield81) || [LeetCode](https://leetcode.com/dlittlefield81/)
+
+<p align="center">
+<a href="https://www.linkedin.com/in/dennislittlefield/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> &nbsp; 
+<a href="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"><img src=""></img></a> &nbsp; 
+<a href=""><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></img></a> &nbsp; 
+<a href="https://dlittlefield81.github.io/reactportfolio/"><img src=""></img></a> &nbsp; 
+<a href="https://www.freecodecamp.org/DLittlefield81"><img src=""></img></a> &nbsp; 
+<a href="https://leetcode.com/dlittlefield81/"><img src=""></img></a> &nbsp; 
+<a href="https://wa.me//14372486759"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
 </p>
-
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-
-<a href="https://www.linkedin.com/in/dennislittlefield/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> &nbsp; <a href="https://wa.me//14372486759"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
 
 ### Professional Links
 
