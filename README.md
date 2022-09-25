@@ -74,11 +74,3 @@ Currently seeking gainful employment within the tech industry.
   [![EscapeRoomHub](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=EscapeRoomHub&theme=dark)](https://github.com/DLittlefield81/EscapeRoomHub)
   
 </div>
-
-
-
-
-### Education
-> **University of Toronto:** 
->- (2022-08-03) Full Stack Developer Certificate 
-
