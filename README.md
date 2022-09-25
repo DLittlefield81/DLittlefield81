@@ -7,7 +7,9 @@
   <p align="center"> 
   [LinkedIn](https://www.linkedin.com/in/dennislittlefield/) || [My Portfolio](https://dlittlefield81.github.io/reactportfolio/) || [FreeCodeCamp](https://www.freecodecamp.org/DLittlefield81) || [LeetCode](https://leetcode.com/dlittlefield81/)
 </p>
+
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+
   <p align="center"> 
   
 <a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://img.shields.io/badge/LinkedIn-0077B5" alt=”” width=”21px”/></a>
