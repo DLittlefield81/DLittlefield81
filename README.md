@@ -1,4 +1,4 @@
-<img src=https://komarev.com/ghpvc/?username=DLittlefield81/>
+<img src="https://komarev.com/ghpvc/?username=DLittlefield81"/>
 ## Hey There! 🙋‍♂️ 
 ### Professional Links
 [LinkedIn](https://www.linkedin.com/in/dennislittlefield/) | [My Portfolio](https://dlittlefield81.github.io/reactportfolio/) | [FreeCodeCamp](https://www.freecodecamp.org/DLittlefield81) | [LeetCode](https://leetcode.com/dlittlefield81/) 
