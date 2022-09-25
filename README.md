@@ -15,6 +15,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### Education
 >- **University of Toronto: Full Stack Developer Certificate (2022-08-03)** 
+
+### :hammer_and_wrench: Languages and Tools :
 >- HTML5, CSS3, Bootstrap, PHP, JavaScript,  NodeJS, ReactJS, ExpressJS, JQuery, MySQL, MongoDB, GraphQL, Python, PWA, GitHub, Heroku, Docker, WordPress, DIVI, Video Editing, MS Office 365, Figma
 ### Continued Learning
 >- **2022-08-25** - GCS, AWS, Python, BrainJS
