@@ -1,7 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=DLittlefield81"/>
 <h1>
-  [Imgur](https://i.imgur.com/1C0s1p4.png)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://i.imgur.com/1C0s1p4.png" title="Hi I'm Dennis" alt="Hi I'm Dennis" width="40" height="40"/>&nbsp;
+  
+  Hi, I'm Dennis
 </h1>
 
 ### Professional Links
