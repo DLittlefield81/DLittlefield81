@@ -3,16 +3,23 @@
   <img src="https://i.imgur.com/1C0s1p4.png" title="Hi I'm Dennis" alt="Hi I'm Dennis" width="150" height="150"/><br/> Hi, I'm Dennis <br/>
  <img src="https://komarev.com/ghpvc/?username=DLittlefield81"/><br/>
 </h1>
+
   <p align="center"> 
   [LinkedIn](https://www.linkedin.com/in/dennislittlefield/) || [My Portfolio](https://dlittlefield81.github.io/reactportfolio/) || [FreeCodeCamp](https://www.freecodecamp.org/DLittlefield81) || [LeetCode](https://leetcode.com/dlittlefield81/)
 </p>
+
   <p align="center"> 
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a></p>
+  
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=”” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=”” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt=”” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”" alt=”” width=”21px”/></a>
+</p>
 
 ### Professional Links
-https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
+
+
+
 
 https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
 
