@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=DLittlefield81"/>
-<h1>
+<h1 align="center">
   <img src="https://i.imgur.com/1C0s1p4.png" title="Hi I'm Dennis" alt="Hi I'm Dennis" width="60" height="60"/>&nbsp; Hi, I'm Dennis <br/>
   [LinkedIn](https://www.linkedin.com/in/dennislittlefield/) || [My Portfolio](https://dlittlefield81.github.io/reactportfolio/) || [FreeCodeCamp](https://www.freecodecamp.org/DLittlefield81) || [LeetCode](https://leetcode.com/dlittlefield81/)
 </h1>
