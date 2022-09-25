@@ -2,7 +2,10 @@
 <h1 align="center">
   <img src="https://komarev.com/ghpvc/?username=DLittlefield81"/>
   <br/> 
-  <img src="https://i.imgur.com/1C0s1p4.png" title="Hi I'm Dennis" alt="Hi I'm Dennis" width="150" height="150"/><br/> Hi, I'm Dennis
+  <img src="https://i.imgur.com/1C0s1p4.png" title="Hi I'm Dennis" alt="Hi I'm Dennis" width="150" height="150"/>
+  <br/> 
+  Hi, I'm Dennis
+  <p>Passionate web developer </p>
   <br/>
   <a href="https://dlittlefield81.github.io/reactportfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></img></a>
 </h1>
@@ -46,5 +49,6 @@
 
 
 ### Education
->- **University of Toronto: Full Stack Developer Certificate (2022-08-03)** 
+>- **University of Toronto:** 
+>-  Full Stack Developer Certificate (2022-08-03)
 
