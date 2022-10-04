@@ -3,7 +3,11 @@
   <img src="https://komarev.com/ghpvc/?username=DLittlefield81"/>
   <br/> 
   <img src="https://i.imgur.com/1C0s1p4.png" title="Hi I'm Dennis" alt="Hi I'm Dennis" width="150" height="150"/>
-  <br/> 
+  <br/>
+  <div align="center">
+  <a href="mailto:Littlefield.Dennis@outlook.com?subject=Message From GitHub Profile"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a> &nbsp; 
+ 
+  </div>
   Hi, I'm Dennis Littlefield
   </h1>
   <p align="center"> 
@@ -76,7 +80,4 @@ Currently seeking gainful employment within the tech industry.
   
 </div>
 
-<div align="center">
-  <a href="mailto:Littlefield.Dennis@outlook.com?subject=Message From GitHub Profile"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a> &nbsp; 
- 
-  </div>
+
