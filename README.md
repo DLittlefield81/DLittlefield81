@@ -75,8 +75,8 @@ Currently seeking gainful employment within the tech industry.
   [![Languages and Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=DLittlefield81&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   ## In Development
-    [![ExpenseTracker](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=ExpenseTracker&theme=dark)](https://github.com/DLittlefield81/ExpenseTracker)
-    
+  
+  [![ExpenseTracker](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=ExpenseTracker&theme=dark)](https://github.com/DLittlefield81/ExpenseTracker)
   [![EscapeRoomHub](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=EscapeRoomHub&theme=dark)](https://github.com/DLittlefield81/EscapeRoomHub)
   
 </div>
