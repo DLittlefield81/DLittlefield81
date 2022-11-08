@@ -77,7 +77,7 @@ Currently seeking gainful employment within the tech industry.
   ## In Development
   
   [![ExpenseTracker](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=ExpenseTracker&theme=dark)](https://github.com/DLittlefield81/ExpenseTracker)
-  [![EscapeRoomHub](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=EscapeRoomHub&theme=dark)](https://github.com/DLittlefield81/EscapeRoomHub)
+  [![QuestTrackr](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=QuestTrackr&theme=dark)](https://github.com/DLittlefield81/QuestTrackr)
   
 </div>
 
