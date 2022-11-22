@@ -88,7 +88,8 @@
 
   
   <h2>
-    Learning & Development
+    Learning & Development 
+    <br/>
   <a href="https://www.freecodecamp.org/DLittlefield81">
 <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"></img>
 </a> &nbsp; 
