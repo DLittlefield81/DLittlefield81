@@ -3,12 +3,13 @@
   <img src="https://komarev.com/ghpvc/?username=DLittlefield81"/>
   <br/> 
    Hi, I'm Dennis <br/> 
-  <img src="https://i.imgur.com/1C0s1p4.png" title="Hi I'm Dennis" alt="Hi I'm Dennis" width="150" height="150"/>
+  <img src="https://i.imgur.com/1C0s1p4.png" title="Hi I'm Dennis" alt="Hi I'm Dennis" width="150" height="150"/><br/>
+  <a href="https://dlittlefield81.github.io/reactportfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></img></a>
   <br/>
-  
+  </h1>
   <p align="center"> 
- I'm a passionate Full Stack Developer.<br /> I love how programming allows me to use my creative and analytical sides.<br />Check out my Portfolio 👉 <a href="https://dlittlefield81.github.io/reactportfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></img></a>
-</p></h1>
+ I'm a passionate Full Stack Developer.<br /> I love how programming allows me to use my creative and analytical sides.<br /> 
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/dennislittlefield/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> &nbsp; 
