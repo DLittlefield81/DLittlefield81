@@ -38,13 +38,7 @@
 </a> &nbsp; 
 <a href="https://wa.me//14372486759">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img>
-</a> &nbsp; <br/>
-<a href="https://www.freecodecamp.org/DLittlefield81">
-<img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"></img>
-</a> &nbsp; 
-<a href="https://leetcode.com/dlittlefield81/">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img>
-</a> &nbsp; 
+</a> &nbsp;  
 </div>
 
 <div align="center">
@@ -99,8 +93,16 @@
   ![My Stats](https://github-readme-stats.vercel.app/api?username=DLittlefield81&show_icons=true&theme=blue-green)
 
   
-  ## In Development
+  ## Learning & Development
   
+  <br/>
+<a href="https://www.freecodecamp.org/DLittlefield81">
+<img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"></img>
+</a> &nbsp; 
+<a href="https://leetcode.com/dlittlefield81/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img>
+</a> &nbsp;
+
   [![ExpenseTracker](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=ExpenseTracker&theme=dark)](https://github.com/DLittlefield81/ExpenseTracker)
   [![QuestTrackr](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=QuestTrackr&theme=dark)](https://github.com/DLittlefield81/QuestTrackr)
   
