@@ -10,8 +10,11 @@
   <p align="center"> 
  I'm a passionate Full Stack Developer.<br /> I love how programming allows me to use my creative and analytical sides.<br /> 
 </p>
-## Communication Methods
+
 <p align="center">
+  
+  ## Communication Methods
+  
 <a href="https://www.linkedin.com/in/dennislittlefield/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> &nbsp; 
 <a href="mailto:Littlefield.Dennis@outlook.com?subject=Message From GitHub Profile"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>&nbsp;
 <a href="https://www.facebook.com/DLittlefield1981"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></img></a> &nbsp; 
