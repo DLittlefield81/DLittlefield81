@@ -51,7 +51,7 @@
   
   ## Languages & Tools
   
-  | Proficiencies |  |
+  | Proficiencies | Language/Tool |
   ====================
   | Stong | | 
   | Intermediate | | 
