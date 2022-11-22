@@ -1,35 +1,52 @@
 
 
-  <img align="center" src="https://komarev.com/ghpvc/?username=DLittlefield81"/>
+  <p align="center">
+<img src="https://komarev.com/ghpvc/?username=DLittlefield81"/>
+</p>
   <br/> 
   <h1 align="center">
    Hi, I'm Dennis <br/> 
   </h1>
-  
-  <img src="https://i.imgur.com/1C0s1p4.png" title="Hi I'm Dennis" alt="Hi I'm Dennis" width="150" height="150"/><br/>
-  
+  <p align="center">
+  <img  src="https://i.imgur.com/1C0s1p4.png" title="Hi I'm Dennis" alt="Hi I'm Dennis" width="150" height="150"/><br/>
+  </p>
+  <div align="center">
   <a href="https://dlittlefield81.github.io/reactportfolio/">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></img>
   </a>
   <br/>
   
-  <p align="center"> 
+  <h3> 
  I'm a passionate Full Stack Developer.<br /> I love how programming allows me to use my creative and analytical sides.<br /> 
-</p>
-
-<p align="center">
+</h3></div>
+<hr/>
+<div align="center">
   
   ## Communication Methods
   
-<a href="https://www.linkedin.com/in/dennislittlefield/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> &nbsp; 
-<a href="mailto:Littlefield.Dennis@outlook.com?subject=Message From GitHub Profile"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>&nbsp;
-<a href="https://www.facebook.com/DLittlefield1981"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></img></a> &nbsp; 
-<a href="https://slack.com/app_redirect?channel=D038TSBGNMR"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></img></a> &nbsp; 
-<a href="https://wa.me//14372486759"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a> &nbsp; 
-<a href="https://www.freecodecamp.org/DLittlefield81"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"></img></a> &nbsp; 
-<a href="https://leetcode.com/dlittlefield81/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img></a> &nbsp; 
-</p>
-
+<a href="https://www.linkedin.com/in/dennislittlefield/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+</a> &nbsp; 
+<a href="mailto:Littlefield.Dennis@outlook.com?subject=Message From GitHub Profile">
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img>
+</a>&nbsp;
+<a href="https://slack.com/app_redirect?channel=D038TSBGNMR">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></img>
+</a> &nbsp; <br/>
+<a href="https://www.facebook.com/DLittlefield1981">
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></img>
+</a> &nbsp; 
+<a href="https://wa.me//14372486759">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img>
+</a> &nbsp; <br/>
+<a href="https://www.freecodecamp.org/DLittlefield81">
+<img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"></img>
+</a> &nbsp; 
+<a href="https://leetcode.com/dlittlefield81/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img>
+</a> &nbsp; 
+</div>
+<hr/>
 <div align="center">
   
   ## Languages & Tools
@@ -67,9 +84,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" title="Heroku"  alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM"  alt="NPM" width="40" height="40"/>&nbsp;
 </div>
-
-
-
+<hr/>
 <div align="center">
   
   ## My Stats
@@ -77,6 +92,7 @@
   ![My Stats](https://github-readme-stats.vercel.app/api?username=DLittlefield81&show_icons=true&theme=blue-green)
   
   [![Languages and Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=DLittlefield81&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <hr/>
   
   ## In Development
   
@@ -84,5 +100,4 @@
   [![QuestTrackr](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=QuestTrackr&theme=dark)](https://github.com/DLittlefield81/QuestTrackr)
   
 </div>
-
 
