@@ -11,10 +11,7 @@
   Hi, I'm Dennis
   </h1>
   <p align="center"> 
- I'm a passionate Full Stack Developer; I love how programming allows me to use my creative and analytical sides.<br />
-
-  <br/><br/>
-  <a href="https://dlittlefield81.github.io/reactportfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></img></a>
+ I'm a passionate Full Stack Developer.<br /> I love how programming allows me to use my creative and analytical sides.<br />Check out my Portfolio 👉 <a href="https://dlittlefield81.github.io/reactportfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></img></a>
 </p>
 
 <p align="center">
