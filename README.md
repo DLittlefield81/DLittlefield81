@@ -95,13 +95,13 @@
   
   ## Learning & Development
   
-  <br/>
+  
 <a href="https://www.freecodecamp.org/DLittlefield81">
 <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"></img>
 </a> &nbsp; 
 <a href="https://leetcode.com/dlittlefield81/">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img>
-</a> &nbsp;
+</a> &nbsp;<br/>
 
   [![ExpenseTracker](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=ExpenseTracker&theme=dark)](https://github.com/DLittlefield81/ExpenseTracker)
   [![QuestTrackr](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=QuestTrackr&theme=dark)](https://github.com/DLittlefield81/QuestTrackr)
