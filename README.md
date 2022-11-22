@@ -8,11 +8,11 @@
   <a href="mailto:Littlefield.Dennis@outlook.com?subject=Message From GitHub Profile"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a> &nbsp; 
  
   </div>
-  Hi, I'm Dennis Littlefield
+  Hi, I'm Dennis
   </h1>
   <p align="center"> 
-  I'm a recent graduate from the University of Toronto Full Stack Developer program (2022). <br />
-Currently seeking gainful employment within the tech industry.
+ I'm a passionate Full Stack Developer; I love how programming allows me to use my creative and analytical sides.<br />
+
   <br/><br/>
   <a href="https://dlittlefield81.github.io/reactportfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></img></a>
 </p>
