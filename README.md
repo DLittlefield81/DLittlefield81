@@ -22,7 +22,7 @@
 
 <div align="center">
   
-  ## Communication Methods
+  <h2>Communication Methods</h2>
   
 <a href="https://www.linkedin.com/in/dennislittlefield/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img>
@@ -43,7 +43,7 @@
 
 <div align="center">
   
-  ## Languages & Tools
+  <h2>Languages & Tools</h2>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -81,13 +81,13 @@
 
 <div align="center">
   
-  ## My Stats
+   <h2>My Stats</h2>
   
   [![Languages and Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=DLittlefield81&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   ![My Stats](https://github-readme-stats.vercel.app/api?username=DLittlefield81&show_icons=true&theme=blue-green)
 
   
-  ## Learning & Development
+  <h2>Learning & Development</h2>
  
   [![ExpenseTracker](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=ExpenseTracker&theme=dark)](https://github.com/DLittlefield81/ExpenseTracker)
   [![QuestTrackr](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=QuestTrackr&theme=dark)](https://github.com/DLittlefield81/QuestTrackr)
