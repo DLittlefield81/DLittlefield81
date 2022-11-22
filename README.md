@@ -19,7 +19,7 @@
   <h3> 
  I'm a passionate Full Stack Developer.<br /> I love how programming allows me to use my creative and analytical sides.<br /> 
 </h3></div>
-<hr/>
+
 <div align="center">
   
   ## Communication Methods
@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img>
 </a> &nbsp; 
 </div>
-<hr/>
+
 <div align="center">
   
   ## Languages & Tools
@@ -84,15 +84,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" title="Heroku"  alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM"  alt="NPM" width="40" height="40"/>&nbsp;
 </div>
-<hr/>
+
 <div align="center">
   
   ## My Stats
   
   ![My Stats](https://github-readme-stats.vercel.app/api?username=DLittlefield81&show_icons=true&theme=blue-green)
-  
   [![Languages and Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=DLittlefield81&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  <hr/>
+
   
   ## In Development
   
