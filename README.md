@@ -47,7 +47,11 @@
   <table>
     <tr>
       <td>
+        
+        
         [![Languages and Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=DLittlefield81&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+        
+        
       </td>
       <td>
       
