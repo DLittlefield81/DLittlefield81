@@ -17,7 +17,7 @@
   <br/>
   
   <h3> 
- I'm a passionate Full Stack Developer.<br /> I love how programming allows me to use my creative and analytical sides.<br /> 
+ I'm a passionate Full Stack Developer.<br /> I've been sharpening my skills and utilizing the latest and greatest technologies so that I am able to build great projects. The internet is my canvas.
 </h3></div>
 
 <div align="center">
