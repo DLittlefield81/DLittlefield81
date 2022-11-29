@@ -87,8 +87,9 @@
 <a href="https://leetcode.com/dlittlefield81/">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img>
 </a><br/>
-  [![ExpenseTracker](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=ExpenseTracker&theme=dark)](https://github.com/DLittlefield81/ExpenseTracker)
-  [![Orbitr](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=Orbitr&theme=dark)](https://github.com/DLittlefield81/Orbitr)
+
+[![ExpenseTracker](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=ExpenseTracker&theme=dark)](https://github.com/DLittlefield81/ExpenseTracker)
+[![Orbitr](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=Orbitr&theme=dark)](https://github.com/DLittlefield81/Orbitr)
   
   
 </div>
