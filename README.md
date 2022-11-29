@@ -45,35 +45,19 @@
   
   <h2>Languages & Tools</h2>
   
-  | Stats | Languages |
-  |---|---|
-  |
 [![Languages and Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=DLittlefield81&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-|
 ><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg"  title="Handlebars" alt="Handlebars" width="40" height="40"/>&nbsp;
-  |
-  
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp; <br/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg"  title="Handlebars" alt="Handlebars" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"  title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp; <br/>
-      
-
-  
-  
-  
-  
-  
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"  title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;<br/>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" title="WordPress"  alt="WordPress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="WooCommerce"  alt="WooCommerce" width="40" height="40"/>&nbsp;
   
@@ -88,11 +72,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code"  alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects"  alt="After Effects" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPI"  alt="RaspberryPI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="Filezilla"  alt="Filezilla" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" title="Heroku"  alt="Heroku" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM"  alt="NPM" width="40" height="40"/>&nbsp;
 </div>
 
 <div align="center">
