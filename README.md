@@ -44,16 +44,11 @@
 <div align="center">
   
   <h2>Languages & Tools</h2>
-  <table>
-    <tr>
-      <td>
+
         
         
         [![Languages and Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=DLittlefield81&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-        
-        
-      </td>
-      <td>
+
       
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -65,9 +60,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"  title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp; <br/>
       
-      </td>
-    </tr>
-  </table>
+
   
   
   
