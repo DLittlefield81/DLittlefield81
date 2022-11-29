@@ -88,6 +88,7 @@
 <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"></img>
 </a> &nbsp; 
 <br/>
+Projects that I am currently working on to develop my skills further <br/>
 
 [![ExpenseTracker](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=ExpenseTracker&theme=dark)](https://github.com/DLittlefield81/ExpenseTracker)
 [![Orbitr](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=Orbitr&theme=dark)](https://github.com/DLittlefield81/Orbitr)
