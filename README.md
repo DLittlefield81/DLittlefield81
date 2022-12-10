@@ -87,11 +87,16 @@
 <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"></img>
 </a> &nbsp; 
 <br/>
-Projects that I am currently working on to develop my skills further <br/>
-
-[![ExpenseTracker](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=ExpenseTracker&theme=dark)](https://github.com/DLittlefield81/ExpenseTracker)
-[![Orbitr](https://github-readme-stats.vercel.app/api/pin/?username=DLittlefield81&repo=Orbitr&theme=dark)](https://github.com/DLittlefield81/Orbitr)
-  
-  
+Projects I am building to develop my skills:<br/>
+Orbitr: Reservation platform for activity centers with special payment features, and rewards. <br/>
+ComOpDesktop: An issue tracker that saves to a local xlsx file <br/>
+Certifications I am working toward:<br/>
+AWS Cloud Practitioner CLF-C01 exam <br/>
+Frameworks and Languages I am working on:<br/>
+React Native<br/>
+Typescript<br/>
+Python (next)<br/>
+Ruby (next)<br/>
+C++ (next)<br/>
 </div>
 
