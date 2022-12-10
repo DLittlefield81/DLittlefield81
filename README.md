@@ -17,7 +17,7 @@
   <br/>
   
   <h3> 
- I’m a Motivated Full-Stack Developer.<br /> I’ve been sharpening my skills and utilizing the latest and greatest technologies so that I am able to build you the website your project deserves. The internet is my canvas.
+ I’m a Motivated Full-Stack Developer.<br /> I’m always sharpening my skills.
 </h3></div>
 
 <div align="center">
