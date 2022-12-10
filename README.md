@@ -87,16 +87,16 @@
 <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"></img>
 </a> &nbsp; 
 <br/>
-Projects I am building to develop my skills:<br/>
-Orbitr: Reservation platform for activity centers with special payment features, and rewards. <br/>
-ComOpDesktop: An issue tracker that saves to a local xlsx file <br/>
-Certifications I am working toward:<br/>
-AWS Cloud Practitioner CLF-C01 exam <br/>
-Frameworks and Languages I am working on:<br/>
-React Native<br/>
-Typescript<br/>
-Python (next)<br/>
-Ruby (next)<br/>
-C++ (next)<br/>
+
+| Name         | Status      | Type    | Intention   |
+|--------------|-------------|---------|-------------|
+| Orbitr       | In Progress | Project | Skill Build |
+| ComOpDesktop | In Progress | Project | Skill Build |
+| AWS CLF-C01  | In Progress | Exam    | Certification |
+| ReactNative  | In Progress | Framework | Learn |
+| Typescript   | In Progress | Language  | Learn |
+| Python       | Next        | Language  | Learn |
+| Ruby         | Next        | Language  | Learn |
+| C++          | Next        | Language  | Learn |
 </div>
 
