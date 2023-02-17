@@ -28,7 +28,8 @@
 
 <div align="center">
   
-  <h2>Communication Methods</h2>
+  <h2>Contact Me</h2>
+  <p>I'm available for freelance or hire</p>
   
 <a href="https://www.linkedin.com/in/dennislittlefield/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img>
