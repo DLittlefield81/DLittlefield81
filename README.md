@@ -17,7 +17,13 @@
   <br/>
   
   <h3> 
- I’m a Motivated Full-Stack Developer.<br /> I’m always sharpening my skills.
+ MERN Full Stack Developer graduate from the University of Toronto, with extensive WordPress knowledge. <br />
+ Experienced in process improvements, mentoring, problem-solving, collaboration, and strong communication skills. <br />
+ Dedicated to optimizing productivity, efficiency and service quality across various environments. <br />
+ Always eager to learn new technologies. <br />
+ I see unique opportunities for innovation during times of crisis or change. <br />
+ The more complicated a problem is, the more excited I get. <br />
+ I love asking, "What if we tried doing this another way?"
 </h3></div>
 
 <div align="center">
