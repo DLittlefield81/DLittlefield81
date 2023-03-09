@@ -17,11 +17,7 @@
   <br/>
   
   <p> 
-My name is Dennis, and I'm a MERN Full Stack Developer graduate from the University of Toronto. I'm an experienced problem-solver with an eye for process improvement and an unwavering dedication to optimizing productivity and efficiency. I'm passionate about technology and continuously work to stay at the forefront of new and emerging trends.
-
-My WordPress expertise is an asset to any team, as I have a strong understanding of the platform. I'm a great collaborator, with strong communication skills, and I'm always looking to mentor those around me. Complex challenges energize me, and I'm excited by the prospect of developing creative solutions.
-
-My commitment to service quality and understanding of the power of technology has helped me positively impact many environments. I can bring this same level of enthusiasm and innovation to any team.
+My name is Dennis, I'm a passionate Fullstack Developer graduate from the University of Toronto. I'm an experienced problem-solver with an eye for process improvement and an unwavering dedication to optimizing productivity and efficiency. I'm passionate about technology and continuously work to stay at the forefront of new and emerging trends.
 </p></div>
 
 <div align="center">
