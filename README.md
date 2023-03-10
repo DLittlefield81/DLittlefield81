@@ -87,16 +87,5 @@ My name is Dennis, I'm a passionate Fullstack Developer graduate from the Univer
 <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"></img>
 </a> &nbsp; 
 <br/>
-
-| Name         | Status      | Type    | Intention   |
-|--------------|-------------|---------|-------------|
-| Orbitr       | In Progress | Project | Skill Build |
-| ComOpDesktop | In Progress | Project | Skill Build |
-| AWS CLF-C01  | In Progress | Exam    | Certification |
-| ReactNative  | In Progress | Framework | Learn |
-| Typescript   | In Progress | Language  | Learn |
-| Python       | Next        | Language  | Learn |
-| Ruby         | Next        | Language  | Learn |
-| C++          | Next        | Language  | Learn |
 </div>
 
