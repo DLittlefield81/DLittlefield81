@@ -77,15 +77,6 @@ My name is Dennis, I'm a passionate Fullstack Developer graduate from the Univer
   ![My Stats](https://github-readme-stats.vercel.app/api?username=DLittlefield81&show_icons=true&theme=blue-green)
 
   
-  <h2>
-    Learning & Development 
-  </h2>
-  <a href="https://leetcode.com/dlittlefield81/">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img>
-</a>
- <a href="https://www.freecodecamp.org/DLittlefield81">
-<img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"></img>
-</a> &nbsp; 
-<br/>
+
 </div>
 
