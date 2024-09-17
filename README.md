@@ -17,7 +17,7 @@
   <br/>
   
   <p> 
-Proactive problem-solver with 20+ years of experience at VIA Rail, I leverage my diverse skill set in web development, project management, and communication to optimize processes and exceed expectations. My passion for innovation led to initiatives like centralizing resources for a 10% productivity boost, streamlining operations with a potential for weekly efficiency gains, and redesigning passenger flow for reduced wait times. I bring a collaborative spirit, analytical mind, and dedication to continuous improvement to every project, ensuring maximum impact and a results-driven approach.
+I am a strategic Full-Stack Developer and Project Manager with over 20 years of experience, including a successful tenure at VIA Rail and extensive freelancing. I excel in leadership and coordination, adeptly managing cross-functional teams and complex projects to optimize workflows and ensure seamless operations. My technical expertise spans HTML, CSS, JavaScript, React, Next.js, and WordPress, with a proven track record of enhancing user experiences and site functionality. I am also skilled in crisis management, effectively handling emergencies and coordinating with multiple stakeholders to ensure safety and operational continuity. My strong problem-solving abilities enable me to diagnose and resolve technical issues swiftly, focusing on performance and reliability. With a strategic mindset, I develop and implement solutions that drive productivity and deliver measurable results, showcasing my commitment to high-impact outcomes.
 </p></div>
 
 <div align="center">
