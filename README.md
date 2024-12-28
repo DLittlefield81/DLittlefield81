@@ -9,7 +9,7 @@
 ---
 
 ### 👋 **Hi, I'm Dennis!**  
-A passionate full-stack developer with experience in building efficient and scalable web applications. Explore my work through the [portfolio](https://offworldportal.ca/) and check out my coding challenges progress below.
+A passionate full-stack developer with experience in building efficient and scalable web applications. Explore my work through the [portfolio](https://offworld.ca/) and check out my coding challenges progress below.
 
 ---
 
