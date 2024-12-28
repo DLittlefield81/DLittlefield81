@@ -1,4 +1,4 @@
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username={DLittlefield81}&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username={DLittlefield81}&theme=Light)](https://github.com/DLittlefield81/leetcode-stats)
 
 
 
