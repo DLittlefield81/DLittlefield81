@@ -20,7 +20,7 @@
 ---
 
 ### 🛠️ **Languages & Tools**
-<p align="center">A sample of the tools and languages I use:</p>
+<p >A sample of the tools and languages I use:</p>
 
 <div align="center">
   <!-- Group icons by category -->
@@ -44,8 +44,8 @@
 
 ---
 
-<div align="center">
 ### 📬 **Contact Me**
+<div align="center">
   <a href="https://www.linkedin.com/in/dennislittlefield/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a> &nbsp; 
@@ -56,9 +56,9 @@
 
 ---
 
-<div>
 ### 🏆 **LeetCode Stats**
   <p>Check out my progress on coding challenges:</p>
+<div>
   
   [![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/DLittlefield81?theme=dark)](https://leetcode.com/u/DLittlefield81/)
   
