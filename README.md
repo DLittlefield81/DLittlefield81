@@ -33,7 +33,7 @@ I am a strategic Full-Stack Developer and Project Manager with over 20 years of 
 <div align="center">
   
   <h2>Languages & Tools</h2>
-  
+  <p>a sample of the tools and languages I have used and familiarized myself with.</p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
