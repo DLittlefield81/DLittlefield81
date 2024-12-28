@@ -45,6 +45,7 @@
 ---
 
 ### 📬 **Contact Me**
+
 <div align="center">
   <a href="https://www.linkedin.com/in/dennislittlefield/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
@@ -56,8 +57,9 @@
 
 ---
 
-### 🏆 **Coding Challenges & Growth **
-  <p>Check out my progress on coding challenges:</p>
+### 🏆 **Coding Challenges and Growth**
+<p>Check out my progress on coding challenges:</p>
+
 <div align="center">
   
   [![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/DLittlefield81?theme=dark)](https://leetcode.com/u/DLittlefield81/)
