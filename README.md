@@ -59,10 +59,5 @@ I'm always open to new opportunities and collaborations. Reach out to me via the
 
 ---
 
-### 📄 **About Me**
-I'm a full-stack developer with a keen interest in building impactful web applications. I specialize in both frontend and backend technologies, ensuring seamless integration and performance. I am always learning and solving coding challenges to sharpen my skills.
 
-Feel free to explore my portfolio, or if you're interested in discussing a project, don’t hesitate to get in touch!
-
----
 
