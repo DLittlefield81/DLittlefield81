@@ -34,18 +34,6 @@
 
 
 
----
-
-### 📬 **Contact Me**
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/dennislittlefield/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a> &nbsp; 
-  <a href="mailto:Littlefield.Dennis@outlook.com?subject=Message From GitHub Profile">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge" />
-  </a>
-</div>
 
 ---
 
@@ -61,4 +49,17 @@
 </a>
 
   
+</div>
+
+---
+
+### 📬 **Contact Me**
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/dennislittlefield/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a> &nbsp; 
+  <a href="mailto:Littlefield.Dennis@outlook.com?subject=Message From GitHub Profile">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge" />
+  </a>
 </div>
