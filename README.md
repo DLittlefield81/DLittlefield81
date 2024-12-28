@@ -49,8 +49,11 @@ I am a strategic Full-Stack Developer and Project Manager with over 20 years of 
   <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="WooCommerce"  alt="WooCommerce" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
+
 <div align="center">
   
   <h2>LEETcode Stats</h2>
-![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/DLittlefield81?theme=light)
+  
+  ![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/DLittlefield81?theme=light)
+  
 </div>
