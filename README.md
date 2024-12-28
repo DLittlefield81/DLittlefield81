@@ -58,7 +58,7 @@
 
 ### 🏆 **LeetCode Stats**
   <p>Check out my progress on coding challenges:</p>
-<div>
+<div align="center">
   
   [![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/DLittlefield81?theme=dark)](https://leetcode.com/u/DLittlefield81/)
   
