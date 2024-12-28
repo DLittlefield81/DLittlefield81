@@ -60,8 +60,8 @@
   <p>Check out my progress on coding challenges:</p>
 <div align="center">
   
-  [FreeCodeCamp Profile](https://www.freecodecamp.org/DLittlefield81)
-
   [![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/DLittlefield81?theme=dark)](https://leetcode.com/u/DLittlefield81/)
+  
+  [FreeCodeCamp Profile](https://www.freecodecamp.org/DLittlefield81)
   
 </div>
