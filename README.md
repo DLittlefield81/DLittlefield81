@@ -2,14 +2,17 @@
   <img src="https://komarev.com/ghpvc/?username=DLittlefield81" />
 </p>
 
-<a href="https://offworldportal.ca/">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Badge" />
-</a>
+
 
 ---
 
 ### 👋 **Hi, I'm Dennis!**  
-A passionate full-stack developer with experience in building efficient and scalable web applications. Explore my work through the [portfolio](https://offworld.ca/) and check out my coding challenges progress below.
+A passionate full-stack developer with experience in building efficient and scalable web applications. <br />
+Explore my work through the [portfolio](https://offworld.ca/) and check out my coding challenges progress below.
+
+<a href="https://offworldportal.ca/">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Badge" />
+</a>
 
 ---
 
