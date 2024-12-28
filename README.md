@@ -62,6 +62,9 @@
   
   [![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/DLittlefield81?theme=dark)](https://leetcode.com/u/DLittlefield81/)
   
-  [FreeCodeCamp Profile](https://www.freecodecamp.org/DLittlefield81)
+<a href="https://www.freecodecamp.org/DLittlefield81" target="_blank">
+  <img src="https://img.shields.io/badge/FreeCodeCamp-%230077B5.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="FreeCodeCamp Profile">
+</a>
+
   
 </div>
