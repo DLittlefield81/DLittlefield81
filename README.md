@@ -55,5 +55,8 @@ I am a strategic Full-Stack Developer and Project Manager with over 20 years of 
   <h2>LEETcode Stats</h2>
   
   ![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/DLittlefield81?theme=dark)
+  ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=DLittlefield81)
+
+
   
 </div>
