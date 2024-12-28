@@ -1,4 +1,5 @@
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={DLittlefield81})
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username={DLittlefield81}&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
+
 
 
   <p align="center">
